@@ -4,6 +4,6 @@
 ### List Comprehension
 ### Ray
 ### Pandas
-#### Numpy Array
-#### Query
-#### Vectorization
+* Numpy Array
+* Query
+* Vectorization
