@@ -6,9 +6,9 @@
 * List Comprehension
 * Ray
 * Pandas
-<br>Numpy Array
-<br>Query
-<br>Vectorization
+<br>- Numpy Array
+<br>- Query
+<br>- Vectorization
 <br/><br/><br/><br/><br/>
 ## Memory
 * Generator
