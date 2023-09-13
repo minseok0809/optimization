@@ -6,6 +6,7 @@
 * List Comprehension
 * Ray
 * Pandas
+* Struct
 <br>- Numpy Array
 <br>- Query
 <br>- Vectorization
